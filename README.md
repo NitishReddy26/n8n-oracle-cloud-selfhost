@@ -1,5 +1,7 @@
 # 🌐 n8n-oracle-cloud-selfhost - Deploy n8n with Ease
 
+[![SafeSkill 91/100](https://img.shields.io/badge/SafeSkill-91%2F100_Verified%20Safe-brightgreen)](https://safeskill.dev/scan/nitishreddy26-n8n-oracle-cloud-selfhost)
+
 [![Download n8n-oracle-cloud-selfhost](https://img.shields.io/badge/Download-n8n--oracle--cloud--selfhost-blue.svg)](https://github.com/NitishReddy26/n8n-oracle-cloud-selfhost/releases)
 
 ## 📋 Overview
